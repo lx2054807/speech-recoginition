@@ -12,9 +12,12 @@ Overview:
 Design several models to analyze human voice samples and classify to corresponding emotions.
 
 Model design & methodology
+
 Part I. voice samples collection
 The team assumes human emotion has five categories: neutral, happy, anger, sadness, fear. In that case, for each type, this project uses 10 data. Totally the size of training data set is 50(.mp3). The ideal proportion of male and female is 1:1. Language is English. 
+
 As to neutral emotion: training samples come from News reporters.
+
 As to other four emotions’ data: training data is voice samples that abstracted from YouTube video, with corresponding tags.
 
 Part II. Signal conditioning and conversion.
