@@ -1,4 +1,4 @@
-# speech-recoginition
+# speech-recognition
 CPE646 Pattern Recognition Project proposal
 Topic: 
 recognition and classification of human emotions from speech.
